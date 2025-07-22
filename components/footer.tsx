@@ -133,7 +133,7 @@ export function Footer() {
         {/* Bottom Footer */}
         <div className="border-t border-gray-700 py-6">
           <div className="flex flex-col md:flex-row items-center justify-between space-y-4 md:space-y-0">
-            <p className="text-gray-400 text-sm">© 2025 Swara Infotech. All rights reserved.</p>
+            <p className="text-gray-400 text-sm">© 2025 Swara Infotech. All rights reserved. Developed by:- Yash Ajitkumar Patil.</p>
 
             {/* Social Links */}
             <div className="flex items-center space-x-4">
